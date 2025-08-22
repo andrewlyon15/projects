@@ -1,0 +1,1 @@
+print('Proposal generator placeholder')
